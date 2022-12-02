@@ -6,4 +6,5 @@ Some descirption!
 
 Watch tutorial on Youtube.
 
-new line
+## Local Development
+1. Open index.html in your brower. 
